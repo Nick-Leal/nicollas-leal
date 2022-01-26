@@ -1,8 +1,8 @@
 #  Hello World, I'm Nicollas!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">&nbsp;
 
-- Thanks for visiting.
+Programming student
 
-- Enjoy it!! o/
+Lover of Technology and Coding
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
   <div> 
